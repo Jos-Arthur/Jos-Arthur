@@ -1,4 +1,4 @@
-<h1 align="center">Bonjour, je suis José Arthur OUEDRAOGO 👋</h1>
+<h1 align="center">Hi, i'm José Arthur OUEDRAOGO 👋</h1>
 <h3 align="center">Full Stack Software Engineer | Passionné de Data Science & Machine Learning</h3>
 
 <p align="center">
@@ -47,10 +47,6 @@
 ### 🚀 Projets phares
 
 <!-- ⚠️ Vérifie/corrige les noms de repos et les liens ci-dessous -->
-
-- **[phytoGatePcj](https://github.com/Jos-Arthur/phytoGatePcj)** — Plateforme de gestion des demandes de permis phytosanitaires : backend Spring Boot (gestion de dossiers, upload de pièces jointes) avec frontend Angular.
-  `Spring Boot` `Angular` `JPA`
-
 - **[elevage-management](https://github.com/Jos-Arthur/elevage-management)** — Plateforme complète de gestion d'exploitations avicoles/d'élevage : entités JPA multi-niveaux, authentification JWT et gestion des rôles (Utilisateur, Gestionnaire, Administrateur).
   `Spring Boot` `PostgreSQL` `JWT` `MapStruct`
 
@@ -62,15 +58,6 @@
 
 - **MAARAH — Prédiction du rendement agricole** *(en cours)* — Pipeline ML pour prédire le rendement (t/ha) à partir des intrants agricoles (N, P, K, irrigation…), avec Random Forest / XGBoost et interprétabilité via SHAP.
   `Python` `Random Forest` `XGBoost` `SHAP`
-
----
-
-### 📊 Statistiques GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jos-Arthur&show_icons=true&theme=default&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jos-Arthur&layout=compact&hide_border=true" height="165"/>
-</p>
 
 ---
 
